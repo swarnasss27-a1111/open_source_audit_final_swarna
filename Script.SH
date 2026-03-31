@@ -5,7 +5,7 @@
 # Course: Open Source Software
 
 # Variables 
-STUDENT_NAME="Anuj Parashar"
+STUDENT_NAME="S.Swarna Shree"
 REG_NO="24BOE10024"
 SOFTWARE_CHOICE="LibreOffice"
 
